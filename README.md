@@ -13,7 +13,7 @@ Anontor is a lightweight, interactive CLI framework that aggregates the most cri
 - **Command History**: Tracks your last 5 executed commands.
 - **Binary Detection**: Warns you if a required tool (e.g., `nmap`, `sqlmap`) is missing.
 
-## 🛠️ Installation
+## Installation
 
 ### Termux (Android)
 ```bash
