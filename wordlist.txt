@@ -1,0 +1,6 @@
+admin
+daemon
+guest
+test
+api
+login
